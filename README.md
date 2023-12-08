@@ -66,4 +66,4 @@ Total: $38382578
 Average Change: -2315.12
 Greatest Increase in Profit/Losses: Feb-2012 ($1170593)
 Greatest Decrease in Profit/Losses: Sep-2013 ($-1196225)
-```text
+```
