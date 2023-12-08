@@ -52,9 +52,11 @@ Your final code should print the analysis to the console.
 
 ## Deliverable:
 
-Follow the link to view the boostrap-portfolio landing page:
+Follow the link to view console-finance landing page:
 
-[https://pine-box.github.io/Bootstrap-Portfolio/](https://pine-box.github.io/Console-Finances/)
+[https://pine-box.github.io/Console-Finances/](https://pine-box.github.io/Console-Finances/)
+
+Open console to see the results.
 
 Output generated:
 
